@@ -22,9 +22,13 @@ print "Nos quedamos sorprendidos";
 * que si yo era bruja
 * porque sí, fuí yo quién abrió la puerta
 
+
+[La historia continúa en el segundo fichero pinche aquí]
+(https://github.com/ycamlop/prueba_ycamlop/blob/3672e930c9ef26fd1b63a45aa518a7dba06f8bf2/markdown2.md)
+
 [Enlace a la página de web de IGUALDAD del IES Abdera] (https://igualdad-iesabdera.wixsite.com/igualdad)
 
-##### Horario de 1ºDAW  
+### Horario de 1ºDAW  
 .
 HORA | LUNES | MARTES | MIÉRCOLES | JUEVES | VIERNES |
 |---|---|----|---|---|---|
