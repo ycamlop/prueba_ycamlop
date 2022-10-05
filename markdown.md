@@ -29,7 +29,7 @@ print "Nos quedamos sorprendidos";
 [Enlace a la página de web de IGUALDAD del IES Abdera] (https://igualdad-iesabdera.wixsite.com/igualdad)
 
 ### Horario de 1ºDAW  
-.
+
 HORA | LUNES | MARTES | MIÉRCOLES | JUEVES | VIERNES |
 |---|---|----|---|---|---|
 | 08:15 /  09:15 | Base de Datos | *Entornos* | Base de Datos | *Entornos* | Fol
