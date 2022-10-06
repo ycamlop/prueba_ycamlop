@@ -22,11 +22,12 @@ print "Nos quedamos sorprendidos";
 * que si yo era bruja
 * porque sí, fuí yo quién abrió la puerta
 
+[Enlace a la página de web de IGUALDAD del IES Abdera] (https://igualdad-iesabdera.wixsite.com/igualdad)
 
 [La historia continúa en el segundo fichero pinche aquí]
 (https://github.com/ycamlop/prueba_ycamlop/blob/3672e930c9ef26fd1b63a45aa518a7dba06f8bf2/markdown2.md)
 
-[Enlace a la página de web de IGUALDAD del IES Abdera] (https://igualdad-iesabdera.wixsite.com/igualdad)
+![](https://postcron.com/es/blog/wp-content/uploads/2016/10/Frase-Motivadora-6.jpg)
 
 ### Horario de 1ºDAW  
 
@@ -40,5 +41,4 @@ HORA | LUNES | MARTES | MIÉRCOLES | JUEVES | VIERNES |
 | 12:45 / 13:45 | Lenguajes de marcas | **Programación** | **Porgramación** | Sistemas | **Programación**|
 | 13:45 / 14:55 | Lenguajes de marcas| **Porgramación** | **Programación** | Sistemas | **Programación**
 
-![](https://postcron.com/es/blog/wp-content/uploads/2016/10/Frase-Motivadora-6.jpg)
-
+[Imagenes externa] (https://www.pinterest.es/pin/526499012697721818/?mt=login)
